@@ -8,4 +8,11 @@ Bu proje, Furkan Can Altunbaş tarafından Fırat Üniversitesi Yazılım Mühen
 
 ## PROJE KONUSU OLAN KART
 
-![Uploading Ekran Resmi 2023-06-11 ÖS 2.34.21.png…]()
+
+
+Uploading Simulator Screen Recording - iPhone 14 Pro Max - 2023-06-11 at 14.32.10.mp4…
+
+
+
+
+
