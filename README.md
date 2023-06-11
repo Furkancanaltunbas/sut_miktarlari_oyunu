@@ -6,14 +6,9 @@ Bu proje, Furkan Can Altunbaş tarafından Fırat Üniversitesi Yazılım Mühen
 - Dart
 - Flutter
 
-## PROJE KONUSU OLAN KART
-
-
-## PROJENİN VİDEOSU
 
 
 
-Uploading Ekran Kaydı 2023-06-11 ÖS 3.04.14.mov…
 
 
 
